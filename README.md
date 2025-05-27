@@ -1,4 +1,4 @@
-# Pywave 🎵  
+# Pywave - Python-based Music Player
 
 ## 👤 Author
 
