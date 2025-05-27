@@ -72,6 +72,8 @@ music_index = int(input("Select a music number to play: "))
 player.play_music(music_index)
 ```
 
+---
+
 ## 🧰 Tools & Libraries Used
 
 | Tool / Library       | Description                                                    |
